@@ -17,7 +17,4 @@ khvhkvlhf
 
 123456789
 
-
-7777777777777777
-
-qwerty
+prived
