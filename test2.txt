@@ -1,0 +1,5 @@
+git reset --hard хэш
+
+git push -f origin хэш:ветка
+
+git log
